@@ -5,4 +5,4 @@ Versão node v12.22.12
 
 # Para executar o projeto
 1. npm install
-2. ng serve
+2. ng serve (diretório /batalha-marvel)
